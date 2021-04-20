@@ -152,14 +152,16 @@ h2 {
 .date-header {
   color: #fff;
 }
-.item-post {
+.item-post,
+.single-post{
   width: 100%;
   max-width: 770px;
   height: max-content;
   box-shadow: 0 0 5px #ccc;
   margin: 15px 0;
 }
-.item-post a img {
+.item-post a img,
+.single-post img {
   width: 100%;
   height: auto;
 }

@@ -6,11 +6,10 @@
     <div class="column">
       <div class="wrap">
 
-        <article class="item-post">
-          <a href="<?php the_permalink(); ?>">
+        <article class="single-post">
+<!--          <a href="--><?php //the_permalink(); ?><!--">-->
             <?php the_post_thumbnail('post_big') ?>
-            <!-- <img src="image/post/07.jpeg" alt="" /> -->
-          </a>
+<!--          </a>-->
           <div class="item-text">
             <p class="tag"><?php the_tags('', '/'); ?></p>
             <h2><?php the_title();  ?></h2>
