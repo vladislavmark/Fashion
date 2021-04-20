@@ -15,26 +15,16 @@
   </nav>
 
   <div class="social">
-    <a href="https://uapp-llc.com/" class="social-icon facebook"></a>
-    <a href="https://uapp-llc.com/" class="social-icon twiter"></a>
-    <a href="https://uapp-llc.com/" class="social-icon pinterest"></a>
-    <a href="https://uapp-llc.com/" class="social-icon google"></a>
-    <a href="https://uapp-llc.com/" class="social-icon be"></a>
-    <a href="https://uapp-llc.com/" class="social-icon instagram"></a>
+    <a href="https://www.facebook.com/uapp.group/" class="social-icon facebook" target="_blank"></a>
+    <a href="https://www.instagram.com/uapp.group/" class="social-icon instagram" target="_blank"></a>
+    <a href="https://www.linkedin.com/company/uapp-corp/" class="social-icon linke" target="_blank"></a>
+    <a href="https://uapp-llc.com/" class="social-icon pinterest" target="_blank"></a>
+    <a href="https://uapp-llc.com/" class="social-icon google" target="_blank"></a>
+    <a href="https://www.behance.net/uapp-llc" class="social-icon be" target="_blank"></a>
   </div>
-
-
-
-
-
 
   <p>@2019 Logwork. All Right Reserved.</p>
 </footer>
 <!-- end footer -->
 
-
-
 <?php wp_footer(); ?>
-</body>
-
-</html>

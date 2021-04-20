@@ -35,7 +35,7 @@
     <!-- end header -->
 
     <!-- page title -->
-    <section class="page-title-post">
+    <section class="page-title here">
         <div class="container">
             <div class="title">
                 

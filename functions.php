@@ -7,7 +7,7 @@ add_filter('navigation_markup_template', 'my_navigation_template', 10, 2);
 
 $another_args = array(
     'default-color'      => 'fff',
-    'default-image'      => get_template_directory_uri() . '/assets/image/Your images here.png',
+    'default-image'      => get_template_directory_uri() . '/assets/image/image-here.jpeg',
    
     'default-repeat'     => 'no-repeat',     
 );

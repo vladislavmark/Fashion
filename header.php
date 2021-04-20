@@ -3,6 +3,9 @@
 
 <head>
     <meta charset="UTF-8" />
+    <meta name="description" content="Best Fashion store">
+    <meta name="keywords" content="dresses and all">
+    <meta name="author" content="Vladyslav Marchenko">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Fashion</title>
@@ -28,9 +31,6 @@
                         'menu_class'      => 'list-nav',
 
                     )); ?>
-
-
-
                 </ul>
             </nav>
         </div>
@@ -54,4 +54,3 @@
             </div>
         </div>
     </section>
-    <!-- end page title -->
