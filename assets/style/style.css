@@ -26,6 +26,7 @@
   text-decoration: none;
   color: #171717;
   margin-left: 20px;
+
 }
 .list-nav a:hover {
   color: #c9a96e;
@@ -51,6 +52,8 @@ ul#nav li.current-menu-item a {
   display: flex;
   align-items: flex-end;
   padding-bottom: 60px;
+  box-shadow: -5px 5px 5px rgb(204 204 204 / 80%);
+
 }
 .here {
   max-height: 300px;
@@ -105,7 +108,7 @@ ul#nav li.current-menu-item a {
   width: 100%;
   max-width: 370px;
   height: max-content;
-  box-shadow: 0 0 5px #ccc;
+  box-shadow: -5px 5px 5px rgb(204 204 204 / 80%);
   text-align: center;
   margin: 15px;
 }
@@ -157,7 +160,7 @@ h2 {
   width: 100%;
   max-width: 770px;
   height: max-content;
-  box-shadow: 0 0 5px #ccc;
+  box-shadow: -5px 5px 5px rgb(204 204 204 / 80%);
   margin: 15px 0;
 }
 .item-post a img,
@@ -182,7 +185,7 @@ h2 {
   color: #666666;
 }
 
-
+      /*    Pagination  */
 /*.pagination {*/
 /*  width: 70%;*/
 /*  max-width: 509px;*/
@@ -239,7 +242,7 @@ h2 {
 }
 .block-author {
   height: max-content;
-  box-shadow: 0 3px 5px #ccc;
+  box-shadow: -5px 5px 5px rgb(204 204 204 / 80%);
 }
 .block-author a img {
   width: 100%;
@@ -293,7 +296,7 @@ h2 {
 }
 .block-post {
   height: max-content;
-  box-shadow: 0 3px 5px #ccc;
+  box-shadow: -5px 5px 5px rgb(204 204 204 / 80%);
   margin: 30px 0;
 }
 .block-post a img {
@@ -358,7 +361,7 @@ h3 {
 .tagcloud a:hover {
   color: white;
   background-color: #c9a96e;
-  transition: 1s;
+  transition: .2s;
 }
 .social-sidebar {
   display: flex;
